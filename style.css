@@ -73,7 +73,7 @@ main {
 
         }
 
-        input::placeholder {
+        &::placeholder {
             color: var(--sherpa-blue);
             opacity: 0.35;
         }
